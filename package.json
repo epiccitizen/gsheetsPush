@@ -1,0 +1,21 @@
+{
+  "name": "gsheetsPush",
+  "version": "0.1.0",
+  "description": "Module to push Magic Mirror event data to Google Sheets.",
+  "main": "gsheetsPush.js",
+  "author": "Travis, Jackson",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epiccitizen/gsheetsPush.git"
+  },
+  "keywords": [
+    "sensor",
+    "pir",
+    "event",
+    "upload"
+  ]
+}
